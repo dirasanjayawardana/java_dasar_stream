@@ -7,7 +7,7 @@ import java.util.stream.Stream;
 
 import org.junit.jupiter.api.Test;
 
-public class CreateStreamTest {
+public class ACreateStreamTest {
 
   // Macam-macam cara membuat Stream
   // Aliran data di Stream hanya bisa digunakan sekali
